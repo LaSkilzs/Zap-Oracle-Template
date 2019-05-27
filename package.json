@@ -1,0 +1,27 @@
+{
+  "name": "zap_template_oracle",
+  "version": "1.0.0",
+  "description": "building my first zap oracle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaSkilzs/Zap-Oracle-Template.git"
+  },
+  "author": "La Fountain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LaSkilzs/Zap-Oracle-Template/issues"
+  },
+  "homepage": "https://github.com/LaSkilzs/Zap-Oracle-Template#readme",
+  "dependencies": {
+    "@zapjs/provider": "^2.2.1",
+    "@zapjs/subscriber": "^2.2.1",
+    "@zapjs/zaptoken": "^2.2.1",
+    "web3": "^1.0.0-beta.55",
+    "web3-shh": "^1.0.0-beta.55",
+    "web3-utils": "^1.0.0-beta.55"
+  }
+}
